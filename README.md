@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasranjanmohanta&show_icons=true&locale=en" alt="manasranjanmohanta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasranjanmohanta&" alt="manasranjanmohanta" /></p>
+[![@manas_27's Holopin board](https://holopin.me/manas_27)](https://holopin.io/@manas_27)
