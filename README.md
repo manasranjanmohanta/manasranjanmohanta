@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Mohanta</h1>
 <h3 align="center">A self-enthusiast Java developer.</h3>
-<img align = "right" alt = "Coding" width = "400" height = "330" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg2OWYyeTlld2Fja3JjZnQxM3JpdTY4Ymk4am5kZGdwMHA2d3VzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgyQoh6N306jTUw8w4/giphy.gif">
+<img align = "right" alt = "Coding" width = "400" height = "330" border-radius="10" src = "https://github.com/manasranjanmohanta/manasranjanmohanta/blob/main/git-hub-image.gif" style="border-radius: 10;" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasranjanmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="manasranjanmohanta" /> </p>
 
