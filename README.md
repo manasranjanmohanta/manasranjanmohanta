@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Spring Boot, RestAPIs, Microservice**.
 
-- 🌱 I’m currently learning **ReactJS**.
-
 - 💬 Ask me about **JAVA | DSA**.
 
 
