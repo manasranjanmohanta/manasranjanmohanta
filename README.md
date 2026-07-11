@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Mohanta</h1>
-<h3 align="center">A self-enthusiast Java developer.</h3>
+<h3 align="center">this is getting exhilarating, get excited</h3>
 <img align = "right" alt = "Coding" width = "400" height = "330" border-radius="10" src = "https://github.com/manasranjanmohanta/manasranjanmohanta/blob/main/git-hub-image.gif" style="border-radius: 10;" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasranjanmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="manasranjanmohanta" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot, RestAPIs, Microservice**.
+- 🔭 I’m currently working on **Spring Boot, RestAPIs, Micro-Services**.
 
 - 💬 Ask me about **JAVA | DSA**.
 
