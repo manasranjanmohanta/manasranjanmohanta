@@ -1,0 +1,47 @@
+
+{
+  "milestones": [
+    {
+      "title": "Backend REST API Development",
+      "description": "Designed and developed REST APIs using Java and Spring Boot.",
+      "category": "Backend",
+      "completed": true
+    },
+    {
+      "title": "JWT Authentication",
+      "description": "Worked with JWT-based authentication and Spring Security.",
+      "category": "Security",
+      "completed": true
+    },
+    {
+      "title": "Role-Based Access Control",
+      "description": "Designed role and permission-based authorization.",
+      "category": "Security",
+      "completed": true
+    },
+    {
+      "title": "Database Migrations",
+      "description": "Worked with Flyway for database schema versioning.",
+      "category": "Database",
+      "completed": true
+    },
+    {
+      "title": "API Documentation",
+      "description": "Created API documentation using Swagger and OpenAPI.",
+      "category": "Backend",
+      "completed": true
+    },
+    {
+      "title": "Excel Report Generation",
+      "description": "Developed Excel export functionality using Apache POI.",
+      "category": "Backend",
+      "completed": true
+    },
+    {
+      "title": "Docker and CI/CD",
+      "description": "Worked with Docker containers and GitHub Actions workflows.",
+      "category": "DevOps",
+      "completed": true
+    }
+  ]
+}

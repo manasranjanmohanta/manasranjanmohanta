@@ -1,0 +1,32 @@
+
+{
+  "projects": [
+    {
+      "name": "Book Store Applicaiton",
+      "description": "Building a modular but monolithic bookstore backend with Spring Boot 4, API versioning, testing and clean architecture.",
+      "tech": ["Java", "Spring Boot 4", "MySQL"],
+      "status": "In Progress",
+      "icon": "📚",
+      "category": "Personal Project",
+      "url": ""
+    },
+    {
+      "name": "Touchsmoo",
+      "description": "A browser-based writing application focused on providing a smooth and productive writing experience like a notepad.",
+      "tech": ["JavaScript", "Web Technologies"],
+      "status": "In Progress",
+      "icon": "✍️",
+      "category": "Experimental Project",
+      "url": ""
+    },
+    {
+      "name": "Jarvis AI Assistant",
+      "description": "Exploring a personal AI assistant with automation and productivity capabilities.",
+      "tech": ["AI", "Automation"],
+      "status": "Exploring",
+      "icon": "🤖",
+      "category": "Experiment",
+      "url": ""
+    }
+  ]
+}

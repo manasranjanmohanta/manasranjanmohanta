@@ -1,47 +1,141 @@
-<h1 align="center">Hi 👋, I'm Manas Ranjan Mohanta</h1>
-<h3 align="center">this is getting exhilarating, get excited</h3>
-<img align = "right" alt = "Coding" width = "400" height = "330" border-radius="10" src = "https://github.com/manasranjanmohanta/manasranjanmohanta/blob/main/git-hub-image.gif" style="border-radius: 10;" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasranjanmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="manasranjanmohanta" /> </p>
-
-- 🔭 I’m currently working on **Spring Boot, RestAPIs, Micro-Services**.
-
-- 💬 Ask me about **JAVA | DSA**.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manas-ranjan-mohanta-5488a822b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasranjanmohanta" height="30" width="40" /></a>
-<a href="https://instagram.com/manas.ranjan.mohanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manas.ranjan.mohanta." height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge&logo=springboot&logoColor=%23000000)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle-DB?style=for-the-badge&logo=namesilo&logoColor=rgb(0%2C0%2C0))
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-
-
-
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manasranjanmohanta&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" alt="manasranjanmohanta" />
-  
+
+# MANAS.DEV
+
+### Code. Create. Repeat.
+
+**Java Backend Engineer | Software Developer | Tech Explorer**
+
+Building scalable backend systems, exploring new technologies
+and turning ideas into real-world applications.
+
+![Profile Views](https://komarev.com/ghpvc/?username=manasranjanmohanta&color=blueviolet&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/manasranjanmohanta?style=social)
+
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/manasranjanmohanta/manasranjanmohanta/output/snake.svg" alt="Snake animation" /></div>
+---
+
+> Welcome to my developer command center.
+> A snapshot of what I'm building, learning and accomplishing.
 
 
+## 📅 Today's Dashboard
+
+**Wednesday, 25 November 2026**
+
+### 🎯 Today's Tasks
+
+**Progress: 0/5 tasks (0%)**
+
+`░░░░░░░░░░░░░░░░░░░░`
+
+- [ ] **Enhancing my GitHub Profile** · `Building`
+- [ ] **Working on a Book Store Application** · `Development`
+- [ ] **Learning Google's Antigravity** · `Learning`
+- [ ] **Solve 2 SQL problem daily** · `Practice`
+- [ ] **Review code and push changes** · `GitHub`
+
+### 🔥 Today's Focus
+
+`Backend Engineering` · `System Design` · `Continuous Learning`
+
+## 🚀 What I'm Working On
+
+| Project | Description | Technologies | Status |
+|---|---|---|---|
+| 📚 **Book Store Applicaiton** | Building a modular but monolithic bookstore backend with Spring Boot 4, API versioning, testing and clean architecture. | Java, Spring Boot 4, MySQL | ![In Progress](https://img.shields.io/badge/In%20Progress-orange) |
+| ✍️ **Touchsmoo** | A browser-based writing application focused on providing a smooth and productive writing experience like a notepad. | JavaScript, Web Technologies | ![In Progress](https://img.shields.io/badge/In%20Progress-orange) |
+| 🤖 **Jarvis AI Assistant** | Exploring a personal AI assistant with automation and productivity capabilities. | AI, Automation | ![Exploring](https://img.shields.io/badge/Exploring-blue) |
+
+## ✅ Completed Milestones
+
+**7 achievements recorded**
+
+- [x] **Backend REST API Development** — Designed and developed REST APIs using Java and Spring Boot. `Backend`
+- [x] **JWT Authentication** — Worked with JWT-based authentication and Spring Security. `Security`
+- [x] **Role-Based Access Control** — Designed role and permission-based authorization. `Security`
+- [x] **Database Migrations** — Worked with Flyway for database schema versioning. `Database`
+- [x] **API Documentation** — Created API documentation using Swagger and OpenAPI. `Backend`
+- [x] **Excel Report Generation** — Developed Excel export functionality using Apache POI. `Backend`
+- [x] **Docker and CI/CD** — Worked with Docker containers and GitHub Actions workflows. `DevOps`
+
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### Database & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=manasranjanmohanta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+       alt="GitHub Stats" />
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasranjanmohanta&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="75%"
+       src="https://streak-stats.demolab.com?user=manasranjanmohanta&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
+</p>
+
+
+## 📖 Currently Learning
+
+- Advanced Microservices Architecture
+- Spring Boot 4 and Spring Cloud
+- Kafka and Event-Driven Architecture
+- Advanced Database Optimization
+- System Design and Design Patterns
+- Cloud-Native Development
+- AI Agents and Workflow Automation
+
+---
+
+## 💡 Developer Philosophy
+
+> Don't just make it work. Understand why it works,
+> make it better, and build it to scale.
+
+---
+
+## 🤝 Let's Connect
+
+- 💻 [GitHub](https://github.com/manasranjanmohanta)
+- 💼 [LinkedIn](https://www.linkedin.com/)
+
+---
+
+<div align="center">
+
+**BUILDING · LEARNING · IMPROVING · EVERY SINGLE DAY 🚀**
+
+<sub>Last generated: 25 November 2026, 01:10 PM IST</sub>
+
+</div>
