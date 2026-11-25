@@ -30,6 +30,70 @@ def load_json(filename):
         return json.load(file)
 
 
+def save_json(filename, data):
+    file_path = DATA_DIR / filename
+
+    with file_path.open("w", encoding="utf-8") as file:
+        json.dump(data, file, indent=4, ensure_ascii=False)
+
+
+def prepare_daily_tasks():
+    today = datetime.now(TIMEZONE).date().isoformat()
+
+    tasks_data = load_json("tasks.json")
+
+    history_file = DATA_DIR / "task_history.json"
+
+    if history_file.exists():
+        history_data = load_json("task_history.json")
+    else:
+        history_data = {"history": []}
+
+    stored_date = tasks_data.get("date")
+
+    # First-time initialization
+    if not stored_date:
+        tasks_data["date"] = today
+        save_json("tasks.json", tasks_data)
+        save_json("task_history.json", history_data)
+
+        return tasks_data, history_data
+
+    # No rollover required
+    if stored_date == today:
+        return tasks_data, history_data
+
+    # Archive the previous day's progress
+    previous_day = {
+        "date": stored_date,
+        "focus": tasks_data.get("focus", []),
+        "tasks": tasks_data.get("tasks", [])
+    }
+
+    history = history_data.get("history", [])
+
+    # Avoid duplicate history entries
+    if not any(item.get("date") == stored_date for item in history):
+        history.append(previous_day)
+
+    # Reset checklist for the new day
+    for task in tasks_data.get("tasks", []):
+        task["completed"] = False
+
+    tasks_data["date"] = today
+
+    history_data["history"] = history
+
+    save_json("tasks.json", tasks_data)
+    save_json("task_history.json", history_data)
+
+    print(f"Archived tasks for {stored_date}")
+    print(f"Started fresh checklist for {today}")
+
+    return tasks_data, history_data
+
+
+
 # --------------------------------------------------
 # HELPER FUNCTIONS
 # --------------------------------------------------
@@ -105,6 +169,48 @@ def generate_tasks_section(data):
         ])
 
     return "\n".join(lines)
+
+
+def generate_task_history_section(data):
+    history = data.get("history", [])
+
+    # Show the latest 7 archived days
+    recent_history = sorted(
+        history,
+        key=lambda item: item["date"],
+        reverse=True
+    )[:7]
+
+    lines = [
+        "## 📈 Daily Productivity History",
+        "",
+        "| Date | Completed | Progress |",
+        "|---|---:|---:|"
+    ]
+
+    if not recent_history:
+        lines.append("| No history yet | - | - |")
+
+    for day in recent_history:
+        tasks = day.get("tasks", [])
+
+        total = len(tasks)
+        completed = sum(
+            1 for task in tasks
+            if task.get("completed", False)
+        )
+
+        percentage = round(
+            completed / total * 100
+        ) if total else 0
+
+        lines.append(
+            f"| {day['date']} | {completed}/{total} "
+            f"| {percentage}% |"
+        )
+
+    return "\n".join(lines)
+
 
 
 # --------------------------------------------------
@@ -256,7 +362,7 @@ def generate_github_stats():
 # --------------------------------------------------
 
 def generate_readme():
-    tasks = load_json("tasks.json")
+    tasks, task_history = prepare_daily_tasks()
     projects = load_json("projects.json")
     milestones = load_json("milestones.json")
 
@@ -286,6 +392,8 @@ and turning ideas into real-world applications.
 
 """,
         generate_tasks_section(tasks),
+        "",
+        generate_task_history_section(task_history),
         "",
         generate_projects_section(projects),
         "",

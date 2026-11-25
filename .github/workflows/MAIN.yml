@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          if git diff --quiet -- README.md; then
+          if [ -z "$(git status --porcelain -- README.md data/tasks.json data/task_history.json)" ]; then
             echo "No dashboard changes detected."
             exit 0
           fi
