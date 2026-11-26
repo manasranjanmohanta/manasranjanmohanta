@@ -1,51 +1,50 @@
-
 {
-  "date": "2026-11-25",
-  "focus": [
-    "Backend Engineering",
-    "System Design",
-    "Continuous Learning"
-  ],
-  "tasks": [
-    {
-      "title": "Working on a Book Store Application",
-      "category": "Development",
-      "completed": false
-    },
-    {
-      "title": "Learning Google's Antigravity",
-      "category": "Learning",
-      "completed": false
-    },
-    {
-      "title": "Solve 2 SQL problem daily",
-      "category": "Practice",
-      "completed": false
-    },
-    {
-      "title": "Review code and push changes",
-      "category": "GitHub",
-      "completed": false
-    },
-    {
-      "title": "Research and Install drifty's workcat",
-      "category": "AI",
-      "completed": true
-    },
-    {
-      "title": "Why doesn’t IRCTC Crash?",
-      "category": "Learning",
-      "completed": false
-    },
-    {
-      "title": "What is MCP Server and How to ",
-      "category": "Learning",
-      "completed": false
-    },
-    {
-      "title": "PDF generation with SpringBoot4",
-      "category": "Building",
-      "completed": true
-    }
-  ]
+    "date": "2026-11-26",
+    "focus": [
+        "Backend Engineering",
+        "System Design",
+        "Continuous Learning"
+    ],
+    "tasks": [
+        {
+            "title": "Working on a Book Store Application",
+            "category": "Development",
+            "completed": false
+        },
+        {
+            "title": "Learning Google's Antigravity",
+            "category": "Learning",
+            "completed": false
+        },
+        {
+            "title": "Solve 2 SQL problem daily",
+            "category": "Practice",
+            "completed": false
+        },
+        {
+            "title": "Review code and push changes",
+            "category": "GitHub",
+            "completed": false
+        },
+        {
+            "title": "Research and Install drifty's workcat",
+            "category": "AI",
+            "completed": false
+        },
+        {
+            "title": "Why doesn’t IRCTC Crash?",
+            "category": "Learning",
+            "completed": false
+        },
+        {
+            "title": "What is MCP Server and How to ",
+            "category": "Learning",
+            "completed": false
+        },
+        {
+            "title": "PDF generation with SpringBoot4",
+            "category": "Building",
+            "completed": false
+        }
+    ]
 }

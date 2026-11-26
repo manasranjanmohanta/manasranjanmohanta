@@ -26,15 +26,18 @@ and turning ideas into real-world applications.
 
 ### 🎯 Today's Tasks
 
-**Progress: 0/5 tasks (0%)**
+**Progress: 0/8 tasks (0%)**
 
 `░░░░░░░░░░░░░░░░░░░░`
 
-- [ ] **Enhancing my GitHub Profile** · `Building`
 - [ ] **Working on a Book Store Application** · `Development`
 - [ ] **Learning Google's Antigravity** · `Learning`
 - [ ] **Solve 2 SQL problem daily** · `Practice`
 - [ ] **Review code and push changes** · `GitHub`
+- [ ] **Research and Install drifty's workcat** · `AI`
+- [ ] **Why doesn’t IRCTC Crash?** · `Learning`
+- [ ] **What is MCP Server and How to ** · `Learning`
+- [ ] **PDF generation with SpringBoot4** · `Building`
 
 ### 🔥 Today's Focus
 
@@ -44,7 +47,7 @@ and turning ideas into real-world applications.
 
 | Date | Completed | Progress |
 |---|---:|---:|
-| 2026-11-25 | 0/5 | 0% |
+| 2026-11-25 | 0/8 | 0% |
 
 ## 🚀 What I'm Working On
 
@@ -142,6 +145,6 @@ and turning ideas into real-world applications.
 
 **BUILDING · LEARNING · IMPROVING · EVERY SINGLE DAY 🚀**
 
-<sub>Last generated: 26 November 2026, 07:25 AM IST</sub>
+<sub>Last generated: 26 November 2026, 06:08 PM IST</sub>
 
 </div>
