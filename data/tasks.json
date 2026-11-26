@@ -8,11 +8,6 @@
   ],
   "tasks": [
     {
-      "title": "Enhancing my GitHub Profile",
-      "category": "Building",
-      "completed": false
-    },
-    {
       "title": "Working on a Book Store Application",
       "category": "Development",
       "completed": false
@@ -30,6 +25,16 @@
     {
       "title": "Review code and push changes",
       "category": "GitHub",
+      "completed": false
+    },
+    {
+      "title": "Research and Install drifty's workcat",
+      "category": "AI",
+      "completed": false
+    },
+    {
+      "title": "Why doesn’t IRCTC Crash?",
+      "category": "Learning",
       "completed": false
     }
   ]
