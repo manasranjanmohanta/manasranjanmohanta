@@ -30,12 +30,22 @@
     {
       "title": "Research and Install drifty's workcat",
       "category": "AI",
-      "completed": false
+      "completed": true
     },
     {
       "title": "Why doesn’t IRCTC Crash?",
       "category": "Learning",
       "completed": false
+    },
+    {
+      "title": "What is MCP Server and How to ",
+      "category": "Learning",
+      "completed": false
+    },
+    {
+      "title": "PDF generation with SpringBoot4",
+      "category": "Building",
+      "completed": true
     }
   ]
 }
