@@ -26,18 +26,17 @@ and turning ideas into real-world applications.
 
 ### 🎯 Today's Tasks
 
-**Progress: 0/8 tasks (0%)**
+**Progress: 2/7 tasks (29%)**
 
-`░░░░░░░░░░░░░░░░░░░░`
+`██████░░░░░░░░░░░░░░`
 
-- [ ] **Working on a Book Store Application** · `Development`
-- [ ] **Learning Google's Antigravity** · `Learning`
-- [ ] **Solve 2 SQL problem daily** · `Practice`
-- [ ] **Review code and push changes** · `GitHub`
-- [ ] **Research and Install drifty's workcat** · `AI`
-- [ ] **Why doesn’t IRCTC Crash?** · `Learning`
-- [ ] **What is MCP Server and How to ** · `Learning`
-- [ ] **PDF generation with SpringBoot4** · `Building`
+- [ ] **Working on a Book Store Application** · `Development` · ![In Progress](https://img.shields.io/badge/In%20Progress-orange)
+- [ ] **Learning Google's Antigravity** · `Learning` · ![In Progress](https://img.shields.io/badge/In%20Progress-orange)
+- [ ] **Solve 2 SQL problem daily** · `Practice` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
+- [x] **Research and Install drifty's workcat** · `Research` · ![Completed](https://img.shields.io/badge/Completed-brightgreen)
+- [ ] **Why doesn’t IRCTC Crash?** · `Learning` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
+- [ ] **Spring AI, Langchain4j, RAG, MCP Server** · `Learning` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
+- [x] **PDF generation with SpringBoot4** · `Development` · ![Completed](https://img.shields.io/badge/Completed-brightgreen)
 
 ### 🔥 Today's Focus
 
@@ -145,6 +144,6 @@ and turning ideas into real-world applications.
 
 **BUILDING · LEARNING · IMPROVING · EVERY SINGLE DAY 🚀**
 
-<sub>Last generated: 26 November 2026, 06:08 PM IST</sub>
+<sub>Last generated: 26 November 2026, 10:20 PM IST</sub>
 
 </div>

@@ -9,42 +9,44 @@
         {
             "title": "Working on a Book Store Application",
             "category": "Development",
+            "status": "In Progress",
             "completed": false
         },
         {
             "title": "Learning Google's Antigravity",
             "category": "Learning",
+            "status": "In Progress",
             "completed": false
         },
         {
             "title": "Solve 2 SQL problem daily",
             "category": "Practice",
-            "completed": false
-        },
-        {
-            "title": "Review code and push changes",
-            "category": "GitHub",
+            "status": "Not Started",
             "completed": false
         },
         {
             "title": "Research and Install drifty's workcat",
-            "category": "AI",
-            "completed": false
+            "category": "Research",
+            "status": "Completed",
+            "completed": true
         },
         {
             "title": "Why doesn’t IRCTC Crash?",
             "category": "Learning",
+            "status": "Not Started",
             "completed": false
         },
         {
-            "title": "What is MCP Server and How to ",
+            "title": "Spring AI, Langchain4j, RAG, MCP Server",
             "category": "Learning",
+            "status": "Not Started",
             "completed": false
         },
         {
             "title": "PDF generation with SpringBoot4",
-            "category": "Building",
-            "completed": false
+            "category": "Development",
+            "status": "Completed",
+            "completed": true
         }
     ]
 }

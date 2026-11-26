@@ -79,6 +79,7 @@ def prepare_daily_tasks():
     # Reset checklist for the new day
     for task in tasks_data.get("tasks", []):
         task["completed"] = False
+        task["status"] = "Not Started"
 
     tasks_data["date"] = today
 
@@ -111,10 +112,12 @@ def generate_progress_bar(percentage, length=20):
 
 def get_status_badge(status):
     colors = {
+        "Not Started": "lightgrey",
         "In Progress": "orange",
+        "Blocked": "red",
+        "On Hold": "yellow",
         "Completed": "brightgreen",
         "Exploring": "blue",
-        "On Hold": "lightgrey"
     }
 
     color = colors.get(status, "lightgrey")
@@ -155,8 +158,14 @@ def generate_tasks_section(data):
         checkbox = "x" if task.get("completed", False) else " "
         title = escape_markdown(task.get("title", "Untitled task"))
         category = escape_markdown(task.get("category", "General"))
+        status = task.get(
+            "status", "Completed" if task.get("completed", False) else "Not Started"
+        )
+        status_badge = get_status_badge(status)
 
-        lines.append(f"- [{checkbox}] **{title}** · `{category}`")
+        lines.append(
+            f"- [{checkbox}] **{title}** · `{category}` · {status_badge}"
+        )
 
     focus = data.get("focus", [])
 
