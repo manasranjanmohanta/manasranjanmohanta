@@ -22,21 +22,21 @@ and turning ideas into real-world applications.
 
 ## 📅 Today's Dashboard
 
-**Thursday, 26 November 2026**
+**Friday, 27 November 2026**
 
 ### 🎯 Today's Tasks
 
-**Progress: 2/7 tasks (29%)**
+**Progress: 0/7 tasks (0%)**
 
-`██████░░░░░░░░░░░░░░`
+`░░░░░░░░░░░░░░░░░░░░`
 
-- [ ] **Working on a Book Store Application** · `Development` · ![In Progress](https://img.shields.io/badge/In%20Progress-orange)
-- [ ] **Learning Google's Antigravity** · `Learning` · ![In Progress](https://img.shields.io/badge/In%20Progress-orange)
+- [ ] **Working on a Book Store Application** · `Development` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
+- [ ] **Learning Google's Antigravity** · `Learning` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
 - [ ] **Solve 2 SQL problem daily** · `Practice` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
-- [x] **Research and Install drifty's workcat** · `Research` · ![Completed](https://img.shields.io/badge/Completed-brightgreen)
+- [ ] **Research and Install drifty's workcat** · `Research` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
 - [ ] **Why doesn’t IRCTC Crash?** · `Learning` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
 - [ ] **Spring AI, Langchain4j, RAG, MCP Server** · `Learning` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
-- [x] **PDF generation with SpringBoot4** · `Development` · ![Completed](https://img.shields.io/badge/Completed-brightgreen)
+- [ ] **PDF generation with SpringBoot4** · `Development` · ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey)
 
 ### 🔥 Today's Focus
 
@@ -46,6 +46,7 @@ and turning ideas into real-world applications.
 
 | Date | Completed | Progress |
 |---|---:|---:|
+| 2026-11-26 | 0/7 | 0% |
 | 2026-11-25 | 0/8 | 0% |
 
 ## 🚀 What I'm Working On
@@ -144,6 +145,6 @@ and turning ideas into real-world applications.
 
 **BUILDING · LEARNING · IMPROVING · EVERY SINGLE DAY 🚀**
 
-<sub>Last generated: 26 November 2026, 10:20 PM IST</sub>
+<sub>Last generated: 27 November 2026, 07:23 AM IST</sub>
 
 </div>
